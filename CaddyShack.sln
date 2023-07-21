@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaddyShackMVC", "CaddyShackMVC\CaddyShackMVC.csproj", "{CD76AB38-3C1A-474E-A4E4-DCB8BF7AE130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaddyShackTests", "CaddyShackTests\CaddyShackTests.csproj", "{C07A3A72-22F5-42C1-914D-22E0D114B920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD76AB38-3C1A-474E-A4E4-DCB8BF7AE130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD76AB38-3C1A-474E-A4E4-DCB8BF7AE130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD76AB38-3C1A-474E-A4E4-DCB8BF7AE130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD76AB38-3C1A-474E-A4E4-DCB8BF7AE130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07A3A72-22F5-42C1-914D-22E0D114B920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07A3A72-22F5-42C1-914D-22E0D114B920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07A3A72-22F5-42C1-914D-22E0D114B920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07A3A72-22F5-42C1-914D-22E0D114B920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {517C73E7-D65A-4A2F-A7C9-28532ECD191E}
+	EndGlobalSection
+EndGlobal
