@@ -66,6 +66,5 @@ Then I am redirected to "/golfbags/2"
 
 ## Rubric
 This assessment is work 20 points; a score of 10 is considered passing. Points are based on the following:
-* 1 point for setting up a controller class appropriately (this should be a new controller).
-* 1 point for setting up a test class appropriately (this can be the pre-existing test class).
-* For each user story above, you could earn 2 points - 1 point for the test, and 1 point for the implementation of the user story.
+* 2 points for setting up a controller class appropriately.
+* For each user story above, you could earn 2 points.
